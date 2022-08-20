@@ -1,6 +1,6 @@
 <div>
-  <img width="" src="https://github-readme-stats.vercel.app/api?username=robertodesilva&show_icons=true&theme=dark"/>
-  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertodesilva&layout=compact&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=robertodesilva&show_icons=true&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertodesilva&layout=compact&theme=dark"/>
 </div>
 
 #### Tecnologias:
