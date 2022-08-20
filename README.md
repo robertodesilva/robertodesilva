@@ -1,7 +1,6 @@
 <div>
-  <a href="https://github.com/robertodesilva">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=robertodesilva&show_icons=true&theme=dark"/>
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertodesilva&layout=compact&theme=dark"/>
+  <img width="" src="https://github-readme-stats.vercel.app/api?username=robertodesilva&show_icons=true&theme=dark"/>
+  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertodesilva&layout=compact&theme=dark"/>
 </div>
 
 #### Tecnologias:
@@ -14,7 +13,7 @@
 
 #### Sistema Operacional:
 
-<div>
+<div class="so">
 <img align="center" alt"roberto-windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 <img align="center" alt"roberto-linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </div>
