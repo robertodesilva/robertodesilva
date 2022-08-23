@@ -11,7 +11,15 @@
 <img align="center" alt"roberto-js" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 </div>
 
-#### Sistema Operacional:
+#### Ferramentas:
+
+<div class="ferramentas">
+<img align="center" alt"roberto-git" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+<img align="center" alt"roberto-vscode" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+<img align="center" alt"roberto-ps" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg">
+</div>
+
+#### Sistemas Operacionais:
 
 <div class="so">
 <img align="center" alt"roberto-windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
